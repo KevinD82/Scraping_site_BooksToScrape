@@ -92,3 +92,5 @@ python main.py
 
 Toutes les dépendances sont listées dans requirements.txt.
 
+👤 Auteur : Kevin Delcroix
+2026
